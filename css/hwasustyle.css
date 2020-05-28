@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Nanum+Myeongjo:wght@400;700;800&family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+
+* {
+  background-color: #f2ffe1;
+  text-align: center;
+}
+
+.first {
+  color: #bb0000;
+  font-family: Noto Serif KR, serif;
+}
+
+.small {
+  font-size: 6px;
+  color: #5a5a5a;
+}
